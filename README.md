@@ -5,7 +5,9 @@
 После исправления ошибок
 ![изображение](https://github.com/user-attachments/assets/118f778d-5ce9-4d96-915f-007265a03a0b)
 
-## Закномство с Nexus
+## Знакомство с Nexus
+### maven-metadata.xml
+```
 <metadata modelVersion="1.1.0">
 <groupId>netology</groupId>
 <artifactId>java</artifactId>
